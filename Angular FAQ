@@ -4,8 +4,22 @@ Why Angular?
 3. Rich Data Binding Support.
 4. Data Transformation [Pipes].
 5. D.I. (easyness of testing)
-6. 
-7. 
+6. It follows component based architecture.
+7. Compilation - JIT Compilation/AoT Compilation.
+8. Modulear Framework
+9. Developing Application - Feature Wise Folder Structure.
+10.Eager Loading/Lazy Loading
+11.SPA
+12.Router
+13.Animation 
+14.Run Angular application using Background Worker.
+15.Angular Universal(its about speeding etc)
+16.Angular Elements
+17.
+18.
+19.
+20.
+
 
 
 
