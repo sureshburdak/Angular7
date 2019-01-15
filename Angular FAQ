@@ -6,7 +6,7 @@ Why Angular?
 5. D.I. (easyness of testing)
 6. It follows component based architecture.
 7. Compilation - JIT Compilation/AoT Compilation.
-8. Modulear Framework
+8. Modular Framework
 9. Developing Application - Feature Wise Folder Structure.
 10. Eager Loading/Lazy Loading
 11. SPA
