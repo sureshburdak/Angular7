@@ -14,12 +14,12 @@ Why Angular?
 13. Animation 
 14. Run Angular application using Background Worker.
 15. Angular Universal(its about speeding etc)
-16. Angular Elements
+16. Angular Elements (create one compo and use it anywhere..even in non-angular application)
 17. Easy testing with Jasmine framework and Karma Test Runner
 18. Http
 19. Change Detection Cycle/Strategy
 20. Performance
-
+21. Angular Material
 
 
 
