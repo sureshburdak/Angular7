@@ -8,17 +8,17 @@ Why Angular?
 7. Compilation - JIT Compilation/AoT Compilation.
 8. Modulear Framework
 9. Developing Application - Feature Wise Folder Structure.
-10.Eager Loading/Lazy Loading
-11.SPA
-12.Router
-13.Animation 
-14.Run Angular application using Background Worker.
-15.Angular Universal(its about speeding etc)
-16.Angular Elements
-17.
-18.
-19.
-20.
+10. Eager Loading/Lazy Loading
+11. SPA
+12. Router
+13. Animation 
+14. Run Angular application using Background Worker.
+15. Angular Universal(its about speeding etc)
+16. Angular Elements
+17. Easy testing with Jasmine framework and Karma Test Runner
+18. Http
+19. Change Detection Cycle/Strategy
+20. Performance
 
 
 
