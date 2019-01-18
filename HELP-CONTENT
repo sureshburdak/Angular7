@@ -1,0 +1,23 @@
+<form>	
+
+	<input						FormControl (each input type is equal to FormControl)
+	<textarea
+	<select
+	<button
+	
+</form>
+
+
+
+FormGroup =>
+
+a collection of form controls
+(a form tag or group of form tags is addressed with the help of FormGroup, can nested in case of Complex objects)
+
+
+
+
+FormControl =>
+
+a class (its constructor take two params, 1st one is default value and 2nd one is validations)
+(each input type is equal to FormControl)
